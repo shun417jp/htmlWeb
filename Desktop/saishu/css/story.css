@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.story {
+    display: flex;
+}
+.story img{
+    width: 50%;
+    height: 50%;
+}
+.ga{
+    display: flex;
+}
+.ga img{
+    width: 30%;
+    height: 30%;
+    margin: 10px auto;
+
+}
+.story p{
+    margin: 100px 50px;
+}
+.back{
+    background-color:darkgrey;
+    color: ghostwhite;
+}
+.moji{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.maji{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.miji{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.muji{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.meji{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.nai{
+    text-align: center;
+}
+
+
+
+a:link,
+a:visited {
+  color: rgb(212, 192, 231);
+  font-weight: bold;
+}
+
+a:hover {
+  color:hotpink;
+}
