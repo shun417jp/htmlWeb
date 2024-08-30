@@ -1,0 +1,79 @@
+/* styles/Home.module.css */
+.main {
+  text-align: center;
+  color: blue;
+}
+.saishu {
+  background-color: cornsilk;
+}
+.two {
+  background-color: #f9fafb;
+  border: 2px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 40px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.two h1 {
+  font-size: 2.5rem;
+  color: #1f2937;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.two p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #4b5563;
+}
+
+.two a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 15px;
+  background-color: #3b82f6;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.two a:hover {
+  background-color: #2563eb;
+}
+.one {
+  background-color: #e0f7fa; /* 背景色を少し変更して区別 */
+  border: 2px solid #00acc1;
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 40px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.one h2 {
+  font-size: 2.5rem;
+  color: #00796b;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.one p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #004d40;
+}
+
+.one a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 15px;
+  background-color: #00897b;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.one a:hover {
+  background-color: #00695c;
+}
